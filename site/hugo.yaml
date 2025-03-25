@@ -99,3 +99,7 @@ menu:
       name: "TypeScript SDK ↗"
       url: "https://github.com/modelcontextprotocol/typescript-sdk"
       weight: 5
+    - identifier: csharpSdk
+      name: "C# SDK ↗"
+      url: "https://github.com/modelcontextprotocol/csharp-sdk"
+      weight: 6
